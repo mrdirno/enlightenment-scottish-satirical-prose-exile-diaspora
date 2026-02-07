@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_scottish_satirical_prose_exile_diaspora",
+  "title": "The Black Chair: A Treatise on Exile and the Caledonian Cringe",
+  "tagline": "A satirist exiled by his own culture embarks on a heretical quest to rewrite Scotland's foundational myth from a Prague pub.",
+  "target_words": 70000,
+  "actual_words": 69408,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Exile as Cultural Critic",
+    "The Pathology of National Nostalgia",
+    "Satire as an Act of Treason",
+    "Diaspora as a State of Intellectual Freedom"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Tactical Rain",
+      "words": 2892
+    },
+    {
+      "ch": 2,
+      "title": "U Ztraceného Skota",
+      "words": 2892
+    },
+    {
+      "ch": 3,
+      "title": "The Heresy of Observation",
+      "words": 2892
+    },
+    {
+      "ch": 4,
+      "title": "The Council's Decree",
+      "words": 2892
+    },
+    {
+      "ch": 5,
+      "title": "A Nation of One",
+      "words": 2892
+    },
+    {
+      "ch": 6,
+      "title": "The Prague Manuscript",
+      "words": 2892
+    },
+    {
+      "ch": 7,
+      "title": "Arbroath Revisited",
+      "words": 2892
+    },
+    {
+      "ch": 8,
+      "title": "Boomer's Stipend",
+      "words": 2892
+    },
+    {
+      "ch": 9,
+      "title": "Ivo's Nihilism",
+      "words": 2892
+    },
+    {
+      "ch": 10,
+      "title": "The Diaspora's Archive",
+      "words": 2892
+    },
+    {
+      "ch": 11,
+      "title": "Letters from Leith",
+      "words": 2892
+    },
+    {
+      "ch": 12,
+      "title": "The Ghost in the Kirk",
+      "words": 2892
+    },
+    {
+      "ch": 13,
+      "title": "A Whisky-Fueled Epiphany",
+      "words": 2892
+    },
+    {
+      "ch": 14,
+      "title": "The Unweaving",
+      "words": 2892
+    },
+    {
+      "ch": 15,
+      "title": "Fergus's Warning",
+      "words": 2892
+    },
+    {
+      "ch": 16,
+      "title": "The Curling Theorists",
+      "words": 2892
+    },
+    {
+      "ch": 17,
+      "title": "Performative Miserablism",
+      "words": 2892
+    },
+    {
+      "ch": 18,
+      "title": "The Syntax of Exile",
+      "words": 2892
+    },
+    {
+      "ch": 19,
+      "title": "A Publisher's Gamble",
+      "words": 2892
+    },
+    {
+      "ch": 20,
+      "title": "The Review",
+      "words": 2892
+    },
+    {
+      "ch": 21,
+      "title": "The Last Round",
+      "words": 2892
+    },
+    {
+      "ch": 22,
+      "title": "The Cringe Manifesto",
+      "words": 2892
+    },
+    {
+      "ch": 23,
+      "title": "The Chair's Shadow",
+      "words": 2892
+    },
+    {
+      "ch": 24,
+      "title": "A New Haunt",
+      "words": 2892
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Alistair receives a fan letter from another 'Black Chair' exile in a surprising location.",
+      "Draft a chapter where Boomer and Ivo attempt to apply Alistair's theories to Czech culture, with chaotic results.",
+      "Create a flashback scene showing the pivotal Edinburgh literary event where Alistair's first book was publicly denounced.",
+      "Write a monologue from the perspective of Fergus, the cousin who sent the text, justifying the Council's decision."
+    ],
+    "technical": [
+      "Build an interactive map tracing the 'Scottish intellectual diaspora' with character bios and their 'heresies'.",
+      "Create a text generator that produces new satirical book titles in the style of 'The Caledonian Cringe'."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Robert Burns",
+      "James Boswell",
+      "Franz Kafka",
+      "Zadie Smith"
+    ]
+  },
+  "cover_prompt": "A solitary Scottish satirist, his face etched with wry defiance, feverishly annotates a crumbling, mythic map of Caledonia with a leaky fountain pen, surrounded by empty glasses and scattered pages in the smoky haze of a Prague pub, [Detailed Scene & Context]. The scene is rendered in the atmospheric style of a fusion between the stark, psychological etchings of Käthe Kollwitz and the brooding, literary chiaroscuro of Edward Hopper's interior narratives, [Artistic Style & Medium]. Book cover framing, a tightly centered composition that feels both intimate and claustrophobic, shot from a low dramatic angle that elevates the writer to a monumental figure amidst the pub's detritus, [Composition & Camera]. The lighting is a masterful play of tenebrism, where a single, grimy overhead lamp carves the writer and his work out of the deep shadows, casting long, distorted silhouettes of bar stools like accusing specters; the color palette is a somber symphony of sepia ink stains, the warm amber of old whisky and lamplight, and the cold, melancholic blues of a Prague night seen through a fogged window, [Lighting & Color Palette]. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev, [Quality & Technical Enforcers]."
+}
