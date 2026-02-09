@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER ONE**
 
 The rain in Edinburgh is a different creature entirely from the rain anywhere else. It doesn’t fall so much as it is *deployed*—a tactical, horizontal mist that exists not to cleanse, but to interrogate. It finds the gap between your collar and your neck, the space between your cuff and your wrist, and it asks, in a chilly, persistent whisper, *What exactly are you doing here? And who told you you belonged?*
@@ -107,6 +109,8 @@ He would need funding. He would need access. He would need a miracle.
 But first, he needed another drink. Somewhere quieter. Somewhere he could start to plot the destruction of a nation’s favourite fairy tale.
 
 ---
+
+# Chapter 2
 
 ## **CHAPTER TWO**
 
@@ -261,6 +265,8 @@ He stuck it to the centre of his monitor, covering the JSTOR abstract.
 Then he sat down, opened his laptop, and began to book a flight to Rome.
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER THREE**
 
