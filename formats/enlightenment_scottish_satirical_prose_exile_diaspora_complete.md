@@ -2,7 +2,9 @@
 
 ## **CHAPTER ONE**
 
-The rain in Edinburgh is a different creature entirely from the rain anywhere else. It doesn’t fall so much as it is *deployed*—a tactical, horizontal mist that exists not to cleanse, but to interrogate. It finds the gap between your collar and your neck, the space between your cuff and your wrist, and it asks, in a chilly, persistent whisper, *What exactly are you doing here? And who told you you belonged?*
+Hume’s treatise lay open on the table, a paper anchor in a room adrift with the smell of salt and damp wool. From the window, Alexander could see the Rotterdam docks—a grey smear of foreign commerce—and wondered if reason, too, was a commodity that lost its value in translation.
+
+
 
 Alistair McAllister was asking himself much the same question, though the rain currently concerned was the warm, greasy drizzle of a Prague autumn, which fell with a depressive Slavic sigh onto the cobbles of Malá Strana. He was standing under the awning of a *potraviny* that smelled of boiled cabbage and existential disappointment, staring at a text message on a phone whose screen was webbed with cracks. The message was from his cousin, Fergus, and consisted of two sentences:
 
